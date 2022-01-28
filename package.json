@@ -1,0 +1,23 @@
+{
+  "name": "Reproductor-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de javascript de la escuela de javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiusRock1/Reproductor-media-player.git"
+  },
+  "keywords": [],
+  "author": "MatiusRock <jorgeluistrujilllo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiusRock1/Reproductor-media-player/issues"
+  },
+  "homepage": "https://github.com/MatiusRock1/Reproductor-media-player#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
